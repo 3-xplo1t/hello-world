@@ -28,5 +28,10 @@
     "54.87.5.173",
     "54.166.52.62",
     "23.20.92.3"
+  ],
+  "fqdn": [
+    "www.wicar.org",
+    "www.eigar.org",
+    "www.telstra.com.au"
   ]
 }
