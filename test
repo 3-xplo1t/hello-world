@@ -30,8 +30,8 @@
     "23.20.92.3"
   ],
   "fqdn": [
-    "www.wicar.org",
-    "www.eigar.org",
+    "https://www.wicar.org",
+    "eicar.org/badstuff",
     "www.telstra.com.au"
   ]
 }
